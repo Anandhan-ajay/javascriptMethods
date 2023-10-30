@@ -1,0 +1,2 @@
+# javascriptMethods
+Practice purpose
